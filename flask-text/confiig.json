@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_uri": "https://facebook.com/codingthunder",
+    "tw_uri": "https://twitter.com/codingthunder",
+    "gh_uri": "https://github.com/codingthunder",
+    "blog_name":"Reliance Blog",
+    "tagline": "A Blog liked by Programmers",
+    "gmail-user": "amanpatel639250@gmail.com",
+    "gmail-password": "amanvsritika9651@#",
+    "about_text": "Hi my name is AMAN",
+    "no_of_posts":3,
+    "admin_user": "harry",
+    "admin_password": "subscribe now",
+    "upload_location":"C:\\Users\\HP\\PycharmProjects\\flask-text/static"
+  }
+}
