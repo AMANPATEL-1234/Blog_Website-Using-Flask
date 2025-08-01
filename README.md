@@ -26,4 +26,4 @@ The site can be used as a personal blog, technical journal, or a publishing plat
 - Dedicated pages for each article
 - Easy-to-add new content (Markdown or CMS-based)
 - SEO-friendly meta tags
-- 
+
